@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: 3779d22bc31c9554b8df7dfa1e34420a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Zemin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 2029
+      width: 512
+      height: 235
+    spriteID: 576a3c5958eb82340b5b86ec236f8de2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 2029}
+    spritePosition: {x: 91, y: -7}
+  - name: "Silindir  Puzzle Par\xE7a"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3857
+      width: 267
+      height: 133
+    spriteID: 2556da4c13af4e04783a0358d5d351da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 3857}
+    spritePosition: {x: 213, y: 193}
+  - name: "Silindir  Eksik Par\xE7a Zemini"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1855
+      width: 512
+      height: 326
+    spriteID: d8585f697034eee4e96d2538e66b3ba2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1855}
+    spritePosition: {x: 91, y: 0}
+  - name: 'Silindir  Zemin tam '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2189
+      width: 512
+      height: 326
+    spriteID: 29590c0fbf12a4942b188969a69f50df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2189}
+    spritePosition: {x: 91, y: 0}
+  - name: "Daire  Puzzle Par\xE7a"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1045
+      y: 1748
+      width: 134
+      height: 132
+    spriteID: 73fd001bfc4142444b26c21d5ea62f59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1045, y: 1748}
+    spritePosition: {x: 280, y: 193}
+  - name: "Daire Eksik Par\xE7a Zemini"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3191
+      width: 512
+      height: 325
+    spriteID: 92d03e0458b149d44b727edfa9f1ef66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 3191}
+    spritePosition: {x: 91, y: 0}
+  - name: 'Daire  Zemin tam '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3524
+      width: 512
+      height: 325
+    spriteID: e32b7d56e9151874785641e72b3dde12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 3524}
+    spritePosition: {x: 91, y: 0}
+  - name: "Alt\u0131gen Puzzle Par\xE7a"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 3857
+      width: 154
+      height: 133
+    spriteID: f329d83f3e63cd34282339b728d586ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 279, y: 3857}
+    spritePosition: {x: 270, y: 193}
+  - name: "Alt\u0131gen Eksik par\xE7a Zemini"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2523
+      width: 512
+      height: 326
+    spriteID: 685695bb9f77df44bb7084d4224a462f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2523}
+    spritePosition: {x: 91, y: 0}
+  - name: "Alt\u0131gen  Zemin tam "
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2857
+      width: 512
+      height: 326
+    spriteID: 5bcfff41e23dcbc4eb2b48420aaad785
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2857}
+    spritePosition: {x: 91, y: 0}
+  - name: "Dikd\xF6rtgen Puzzle Par\xE7a"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1045
+      y: 1467
+      width: 134
+      height: 199
+    spriteID: 9ee7851761c49d24e8aace9c5088b152
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1045, y: 1467}
+    spritePosition: {x: 280, y: 190}
+  - name: "Dikd\xF6rtgen  Eksik Par\xE7a Zemini"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1060
+      width: 512
+      height: 390
+    spriteID: a2b11debb6340a74b86d75621273756b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1060}
+    spritePosition: {x: 91, y: 0}
+  - name: "Dikd\xF6rtgen Zemin tam "
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1458
+      width: 512
+      height: 389
+    spriteID: 9b3618a2132c7434d89be8622d559e03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1458}
+    spritePosition: {x: 91, y: 0}
+  - name: "Kare Puzzle Par\xE7a"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1045
+      y: 881
+      width: 132
+      height: 132
+    spriteID: c71291032b8650845b724fa937c1bfe4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1045, y: 881}
+    spritePosition: {x: 281, y: 129}
+  - name: "Kare  Eksik Par\xE7a Zemini"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 881
+      width: 512
+      height: 285
+    spriteID: 8c521ee2369cc5a458fb2eb62971807a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 881}
+    spritePosition: {x: 91, y: 0}
+  - name: 'Kare Zemin tam '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 1174
+      width: 512
+      height: 285
+    spriteID: 3668fb5fe6fc83f4684e4cfc173ed35f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 1174}
+    spritePosition: {x: 91, y: 0}
+  - name: "\xDC\xE7gen Puzzle Par\xE7a"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1045
+      y: 1888
+      width: 134
+      height: 132
+    spriteID: 5d741baa7621bbc429848a431b249148
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1045, y: 1888}
+    spritePosition: {x: 280, y: 129}
+  - name: "\xDC\xE7gen Eksik Par\xE7a Zemini"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 291
+      width: 512
+      height: 287
+    spriteID: 4fdbb687f3d351a44b62b36badea474f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 291}
+    spritePosition: {x: 91, y: 0}
+  - name: "\xDC\xE7gen Zemin tam "
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 586
+      width: 512
+      height: 287
+    spriteID: 91bff7b51f6e52c4d92af28a956c093c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 586}
+    spritePosition: {x: 91, y: 0}
+  - name: "Ba\u015Flang\u0131\xE7 kopya"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 4
+      width: 684
+      height: 279
+    spriteID: 9e0e9d2e6bcb6104283f6698ed128472
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: "Soldan a\u011Fa\u015F\u0131 K\u0131sa"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 1467
+      width: 512
+      height: 273
+    spriteID: 454e5faf7ae54954aa5effa20362e57d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 1467}
+    spritePosition: {x: 90, y: 9}
+  - name: "Soldan yukar\u0131 K\u0131sa"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 1748
+      width: 512
+      height: 273
+    spriteID: 5f0944dc96d214441a4a92ed3bad4509
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 1748}
+    spritePosition: {x: 90, y: 9}
+  - name: "Soldan A\u015Fa\u011F\u0131 "
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 513
+      height: 520
+    spriteID: de37ec4a57636384c84565695df4e814
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 90, y: 0}
+  - name: "Soldan Yukar\u0131"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 532
+      width: 513
+      height: 520
+    spriteID: abf4d041f071f1546a2a2e6ad58fb802
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 532}
+    spritePosition: {x: 90, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "Bo\u015Fluklar Zemini"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a70dfc032699fcb4da2e5cee964b0284
+    layerID: 78
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Zemin
+    spriteName: Zemin
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 576a3c5958eb82340b5b86ec236f8de2
+    layerID: 77
+    mosaicPosition: {x: 525, y: 2029}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'Silindir  '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 27df338d729d92140834d90ccd30624f
+    layerID: 22
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Silindir  Puzzle Par\xE7a"
+    spriteName: "Silindir  Puzzle Par\xE7a"
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 2556da4c13af4e04783a0358d5d351da
+    layerID: 73
+    mosaicPosition: {x: 4, y: 3857}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Silindir  Eksik Par\xE7a Zemini"
+    spriteName: "Silindir  Eksik Par\xE7a Zemini"
+    isGroup: 0
+    parentIndex: 2
+    spriteID: d8585f697034eee4e96d2538e66b3ba2
+    layerID: 74
+    mosaicPosition: {x: 4, y: 1855}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'Silindir  Zemin tam '
+    spriteName: 'Silindir  Zemin tam '
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 29590c0fbf12a4942b188969a69f50df
+    layerID: 75
+    mosaicPosition: {x: 4, y: 2189}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'Daire  '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8a8a6813e587ac74aa5d4c4dd0885ffe
+    layerID: 29
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Daire  Puzzle Par\xE7a"
+    spriteName: "Daire  Puzzle Par\xE7a"
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 73fd001bfc4142444b26c21d5ea62f59
+    layerID: 28
+    mosaicPosition: {x: 1045, y: 1748}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Daire Eksik Par\xE7a Zemini"
+    spriteName: "Daire Eksik Par\xE7a Zemini"
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 92d03e0458b149d44b727edfa9f1ef66
+    layerID: 27
+    mosaicPosition: {x: 4, y: 3191}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'Daire  Zemin tam '
+    spriteName: 'Daire  Zemin tam '
+    isGroup: 0
+    parentIndex: 6
+    spriteID: e32b7d56e9151874785641e72b3dde12
+    layerID: 24
+    mosaicPosition: {x: 4, y: 3524}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Alt\u0131gen "
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 0bed8ad481bc7634288a41e9831b4912
+    layerID: 37
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Alt\u0131gen Puzzle Par\xE7a"
+    spriteName: "Alt\u0131gen Puzzle Par\xE7a"
+    isGroup: 0
+    parentIndex: 10
+    spriteID: f329d83f3e63cd34282339b728d586ba
+    layerID: 36
+    mosaicPosition: {x: 279, y: 3857}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Alt\u0131gen Eksik par\xE7a Zemini"
+    spriteName: "Alt\u0131gen Eksik par\xE7a Zemini"
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 685695bb9f77df44bb7084d4224a462f
+    layerID: 35
+    mosaicPosition: {x: 4, y: 2523}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Alt\u0131gen  Zemin tam "
+    spriteName: "Alt\u0131gen  Zemin tam "
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 5bcfff41e23dcbc4eb2b48420aaad785
+    layerID: 31
+    mosaicPosition: {x: 4, y: 2857}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Dikd\xF6rtgen"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 7aa092ddc6c5dd740999083bc2ecb639
+    layerID: 45
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Dikd\xF6rtgen Puzzle Par\xE7a"
+    spriteName: "Dikd\xF6rtgen Puzzle Par\xE7a"
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 9ee7851761c49d24e8aace9c5088b152
+    layerID: 44
+    mosaicPosition: {x: 1045, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Dikd\xF6rtgen  Eksik Par\xE7a Zemini"
+    spriteName: "Dikd\xF6rtgen  Eksik Par\xE7a Zemini"
+    isGroup: 0
+    parentIndex: 14
+    spriteID: a2b11debb6340a74b86d75621273756b
+    layerID: 43
+    mosaicPosition: {x: 4, y: 1060}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Dikd\xF6rtgen Zemin tam "
+    spriteName: "Dikd\xF6rtgen Zemin tam "
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 9b3618a2132c7434d89be8622d559e03
+    layerID: 39
+    mosaicPosition: {x: 4, y: 1458}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'Kare '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: bf4faf099fb1606458173388bd4cb7fc
+    layerID: 53
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Kare Puzzle Par\xE7a"
+    spriteName: "Kare Puzzle Par\xE7a"
+    isGroup: 0
+    parentIndex: 18
+    spriteID: c71291032b8650845b724fa937c1bfe4
+    layerID: 52
+    mosaicPosition: {x: 1045, y: 881}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Kare  Eksik Par\xE7a Zemini"
+    spriteName: "Kare  Eksik Par\xE7a Zemini"
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 8c521ee2369cc5a458fb2eb62971807a
+    layerID: 51
+    mosaicPosition: {x: 525, y: 881}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'Kare Zemin tam '
+    spriteName: 'Kare Zemin tam '
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 3668fb5fe6fc83f4684e4cfc173ed35f
+    layerID: 47
+    mosaicPosition: {x: 525, y: 1174}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\xDC\xE7gen"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: fb798daddc01188438c1ce75ffbb1015
+    layerID: 61
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xDC\xE7gen Puzzle Par\xE7a"
+    spriteName: "\xDC\xE7gen Puzzle Par\xE7a"
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 5d741baa7621bbc429848a431b249148
+    layerID: 60
+    mosaicPosition: {x: 1045, y: 1888}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\xDC\xE7gen Eksik Par\xE7a Zemini"
+    spriteName: "\xDC\xE7gen Eksik Par\xE7a Zemini"
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4fdbb687f3d351a44b62b36badea474f
+    layerID: 59
+    mosaicPosition: {x: 525, y: 291}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\xDC\xE7gen Zemin tam "
+    spriteName: "\xDC\xE7gen Zemin tam "
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 91bff7b51f6e52c4d92af28a956c093c
+    layerID: 55
+    mosaicPosition: {x: 525, y: 586}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Ba\u015Flang\u0131\xE7 Zemini "
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 7d31d4e3d74405741a0271ad22f84435
+    layerID: 67
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Ba\u015Flang\u0131\xE7 kopya"
+    spriteName: "Ba\u015Flang\u0131\xE7 kopya"
+    isGroup: 0
+    parentIndex: 26
+    spriteID: 9e0e9d2e6bcb6104283f6698ed128472
+    layerID: 76
+    mosaicPosition: {x: 525, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u0130ni\u015F ve \xE7\u0131k\u0131\u015Flar"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 774661e221a761c49a44125368519fc4
+    layerID: 13
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Soldan a\u011Fa\u015F\u0131 K\u0131sa"
+    spriteName: "Soldan a\u011Fa\u015F\u0131 K\u0131sa"
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 454e5faf7ae54954aa5effa20362e57d
+    layerID: 10
+    mosaicPosition: {x: 525, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Soldan yukar\u0131 K\u0131sa"
+    spriteName: "Soldan yukar\u0131 K\u0131sa"
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 5f0944dc96d214441a4a92ed3bad4509
+    layerID: 9
+    mosaicPosition: {x: 525, y: 1748}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Soldan A\u015Fa\u011F\u0131 "
+    spriteName: "Soldan A\u015Fa\u011F\u0131 "
+    isGroup: 0
+    parentIndex: 28
+    spriteID: de37ec4a57636384c84565695df4e814
+    layerID: 12
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Soldan Yukar\u0131"
+    spriteName: "Soldan Yukar\u0131"
+    isGroup: 0
+    parentIndex: 28
+    spriteID: abf4d041f071f1546a2a2e6ad58fb802
+    layerID: 11
+    mosaicPosition: {x: 4, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: Zeminler 512 Rasterize  Texture
+  prefabAssetName: Zeminler 512 Rasterize  Prefab
+  spriteLibAssetName: Zeminler 512 Rasterize  Sprite Lib
+  skeletonAssetName: Zeminler 512 Rasterize  Skeleton
+  secondarySpriteTextures: []

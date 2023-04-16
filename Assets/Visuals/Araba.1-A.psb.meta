@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 762fbd2a96db2bf45aff140e675ab541
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "Ka\u015F"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3525
+      y: 410
+      width: 118
+      height: 152
+    spriteID: ad7e6c230c4d88a4bb0d1dbd1cef1720
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3525, y: 410}
+    spritePosition: {x: 1758, y: 1900}
+  - name: "G\xF6z"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3525
+      y: 4
+      width: 154
+      height: 398
+    spriteID: 8525516ce0f244949b47ec32e7b743f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3525, y: 4}
+    spritePosition: {x: 1809, y: 1581}
+  - name: Arka Teker
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2165
+      y: 4
+      width: 672
+      height: 671
+    spriteID: 439479ee85570a44a8b791d576c7d3f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2165, y: 4}
+    spritePosition: {x: 1616, y: 682}
+  - name: "\xD6n Teker"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2845
+      y: 4
+      width: 672
+      height: 671
+    spriteID: fc1d5ebe69dc7e448988a0658581bd95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2845, y: 4}
+    spritePosition: {x: 680, y: 682}
+  - name: "G\xF6vde"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2153
+      height: 1354
+    spriteID: b2d7bf74493cf4d43b0faf7ce20cf678
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 427, y: 974}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "Ka\u015F"
+    spriteName: "Ka\u015F"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ad7e6c230c4d88a4bb0d1dbd1cef1720
+    layerID: 590
+    mosaicPosition: {x: 3525, y: 410}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "G\xF6z"
+    spriteName: "G\xF6z"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8525516ce0f244949b47ec32e7b743f5
+    layerID: 538
+    mosaicPosition: {x: 3525, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Arka Teker
+    spriteName: Arka Teker
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 439479ee85570a44a8b791d576c7d3f2
+    layerID: 586
+    mosaicPosition: {x: 2165, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\xD6n Teker"
+    spriteName: "\xD6n Teker"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fc1d5ebe69dc7e448988a0658581bd95
+    layerID: 585
+    mosaicPosition: {x: 2845, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "G\xF6vde"
+    spriteName: "G\xF6vde"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b2d7bf74493cf4d43b0faf7ce20cf678
+    layerID: 595
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: Araba.1-A Texture
+  prefabAssetName: Araba.1-A Prefab
+  spriteLibAssetName: Araba.1-A Sprite Lib
+  skeletonAssetName: Araba.1-A Skeleton
+  secondarySpriteTextures: []
